@@ -1,3 +1,4 @@
+//Individual IR Remote code definitions
 //SONY RMT-814 IR Remote Control codes
 #define RMT_814_FWD   0x2C9B //Forward, as button T
 #define RMT_814_BWD   0x6C9B //Backward, as button W
